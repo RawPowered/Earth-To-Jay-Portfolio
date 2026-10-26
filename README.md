@@ -5,8 +5,9 @@
 <h3 align="center">An original animated adventure comedy</h3>
 
 <p align="center">
-  <strong>Created, written, and performed by Joseph Edwards</strong><br>
-  Voice acting · character performance · scriptwriting · show development
+  <strong>Created and written by Joseph Edwards</strong><br>
+  Voice acting · character performance · scriptwriting · show development<br>
+  <strong>Voice performance reel in production</strong>
 </p>
 
 ---
@@ -21,7 +22,7 @@ Jay is a brilliant young inventor with uneven judgment and one enormous goal: me
 
 | Discipline | Featured work |
 | --- | --- |
-| **Voice acting** | Character performance for Jay and Hank, with distinct rhythms, attitudes, and voices |
+| **Voice acting** | Jay and Hank character performances; public voice performance reel in production |
 | **Writing** | Original series concept, pilot script, character dialogue, comic timing, and scene construction |
 | **Character work** | Original characters, relationships, performance direction, and visual development |
 | **Show development** | Series premise, tone, episode structure, and reel planning |
