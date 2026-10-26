@@ -51,10 +51,18 @@ The finished reel will feature original writing and character performances creat
 
 Visuals shown here are portfolio development material. They demonstrate staging, tone, lighting, and reel planning; they are not production-ready model sheets.
 
+## Art direction and rejection study
+
+**[See 10 rejected AI-art examples with the design critique behind each decision →](design-critique/README.md)**
+
+The case study documents how generated images were evaluated against character models, story intent, silhouette, expression, and continuity. It includes rejected outputs—not as finished artwork, but as evidence of the review process that shaped the visual direction of *Earth To Jay*.
+
+Topics include Shadow's eye and body construction, invented robot limbs, pupil-like display marks, incompatible rendering styles, exaggerated acting, and scene generation that changed the written action.
+
 ## Credits and rights
 
 *Earth To Jay* is an original series created and written by **Joseph Edwards**. The script, characters, series concept, and underlying creative material are © 2026 Joseph Edwards. All rights reserved.
 
-This repository is a view-only portfolio presentation. No license is granted to reproduce, adapt, perform, distribute, train on, or commercialize its scripts, characters, artwork, or other materials. The complete pilot, series bible, private creator notes, source artwork, and production files are intentionally withheld.
+This repository is a view-only portfolio presentation. No license is granted to reproduce, adapt, perform, distribute, train on, or commercialize its scripts, characters, artwork, or other materials. Rejected development images are included only as critique evidence and are not approved character designs. The complete pilot, series bible, private creator notes, source artwork, raw prompts, and production files are intentionally withheld.
 
 For casting, collaboration, or portfolio inquiries, contact Joseph Edwards through the [RawPowered GitHub profile](https://github.com/RawPowered).
