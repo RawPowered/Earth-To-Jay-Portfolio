@@ -35,13 +35,13 @@ The accepted direction uses a low, compact build; short, economical fur shapes; 
 | 01 | Detail and eye-language drift | Shadow became fluffy, elegant, and green-eyed |
 | 02 | Cuteness and proportion drift | Oversized round eyes and upright proportions softened the character |
 | 03 | Silhouette near-miss | The face improved, but the body still lacked the intended low, grounded build |
-| 04 | Narrative action drift | A cautious encounter was changed into an attack |
-| 05 | Rendering-style collision | A painterly cat was placed beside flatter graphic characters |
+| 04 | Narrative, model, and rendering drift | A cautious encounter became an attack while every featured character drifted off-model |
+| 05 | Style and animal-behavior collision | The cat became over-rendered, humanized, and incompatible with the show bible |
 | 06 | Invented robot anatomy | Hank was given a torso, shoulders, arms, and hands |
-| 07 | Pupil and extra-eye read | Display details and side hardware created an unintended multi-eye face |
-| 08 | Expression and tone drift | Giant anime tears replaced restrained comic acting |
+| 07 | Character, display, and environment drift | Jay, Hank, and the bedroom all contradicted established visual rules |
+| 08 | Deleted scene: acting and context failure | The image reversed the intended performance and was removed from the episode |
 | 09 | Compounded model drift | Bot anatomy and Shadow's eye/build rules failed in the same frame |
-| 10 | Locomotion continuity failure | Floating bots suddenly became walking humanoids |
+| 10 | Staging, anatomy, and continuity failure | The framing, setting, poses, expressions, and locomotion all contradicted the scene |
 
 ---
 
@@ -81,29 +81,29 @@ The accepted direction uses a low, compact build; short, economical fur shapes; 
 
 **Correction:** Preserve the eye treatment while compressing the torso, lowering the shoulders, and adding a grounded crouch to the final reference.
 
-## 04 — Narrative action drift
+## 04 — Narrative, model, and rendering drift
 
 <p align="center">
   <img src="rejected/04-narrative-action-drift.png" width="900" alt="Rejected scene showing Shadow aggressively leaping at Jay">
 </p>
 
-**Rejected because:** The generated image turns a wary animal encounter into a full airborne attack. That changes the written beat, makes Jay appear to be in immediate danger, and shifts audience sympathy toward spectacle rather than observation.
+**Rejected because:** The generated image turns a wary animal encounter into a full airborne attack. Shadow's fur is over-detailed and includes an oddly placed patch on the rear leg, pushing the cat away from the show's simplified design language. Jay's face and expression are too soft; his eyes do not meet the model requirements; and his hair contains stray spikes, missing shapes, and inconsistent white gaps. Hank's display adds an unapproved furrow-like line and an inconsistent expression. Taken together, the frame changes the written action and visually disassociates the characters from the show.
 
-**Design principle:** Storyboard art is an interpretation of the script, not a license to replace its action with a more sensational one.
+**Design principle:** Story fidelity and model fidelity have to be reviewed together. A dynamic composition is not usable when it rewrites the action or loses the construction rules of every featured character.
 
-**Correction:** Keep Shadow defensive and retreating, keep Jay unharmed, and stage the tension through spacing and posture.
+**Correction:** Keep Shadow defensive and retreating, keep Jay unharmed, restore Jay's approved eyes, face, expression, and complete hair silhouette, simplify Shadow's fur and anatomy, and return Hank to a clean pupil-free display graphic.
 
-## 05 — Rendering-style collision
+## 05 — Rendering-style and animal-behavior collision
 
 <p align="center">
   <img src="rejected/05-rendering-style-collision.png" width="900" alt="Rejected alley frame with a highly detailed fluffy cat next to a clean graphic robot">
 </p>
 
-**Rejected because:** Shadow is rendered with dense fur spikes, layered values, realistic claws, and glassy eyes while Hank is treated as a smooth graphic object. They look imported from different productions.
+**Rejected because:** Shadow is rendered with dense fur spikes, layered values, realistic claws, and glassy eyes while Hank is treated as a smooth graphic object. The cat is also given human-like hands and a humanoid conversational gesture. Both the rendering and the performance violate the show's animal rules: animals are not humanized or directed to make human gestures.
 
-**Design principle:** Detail density is part of model consistency. Characters sharing a frame need compatible line, shape, and shading systems.
+**Design principle:** Detail density and behavior are both part of model consistency. Animals must remain recognizably animal in anatomy, posture, and communication, while sharing the same line, shape, and shading system as the rest of the cast.
 
-**Correction:** Use fewer fur breaks, flatter color groups, simpler eyes, and the same contour economy used throughout the cast.
+**Correction:** Return Shadow to the approved compact construction, short simplified fur, amber eye language, feline paws, and natural cat posture. Communicate the reaction through animal behavior rather than a human gesture.
 
 ## 06 — Invented robot anatomy
 
@@ -117,29 +117,29 @@ The accepted direction uses a low, compact build; short, economical fur shapes; 
 
 **Correction:** Remove every body part below or beside the sphere and communicate performance through hover height, tilt, antenna angle, and the display graphic.
 
-## 07 — Pupil and extra-eye read
+## 07 — Character, display, and environment drift
 
 <p align="center">
   <img src="rejected/07-pupil-and-extra-eye-read.png" width="900" alt="Rejected bedroom frame where Hank's display contains a small dark pupil-like mark and the side hardware reads as another eye">
 </p>
 
-**Rejected because:** A small dark oval inside the cyan display reads like a pupil. The bright circular side element reinforces the impression of an additional eye, making the face anatomy ambiguous.
+**Rejected because:** Hank's cyan display adopts an unapproved curved eye shape with a small dark pupil-like mark, while the bright circular side element reads as another eye. Jay's face is overly smooth, his eyes are too small with inconsistent pupils, his shirt construction is off-model, and the hair drawing is messy. The room also introduces plants even though Jay's room does not contain plants. Character design, prop language, and environment continuity all argue against the established direction of *Earth To Jay*.
 
-**Design principle:** The bot display is a graphic symbol, not an eyeball. Small interior marks and lens-like side details can accidentally turn an abstract expression into a conventional face.
+**Design principle:** Continuity extends across the complete frame. Facial construction, clothing, hair, robot display language, and established room contents must all be checked; background decoration cannot be treated as harmless filler.
 
-**Correction:** Keep the front symbol flat and pupil-free. In relaxed states, use only a single simple dot when needed; remove competing eye-like details from the read.
+**Correction:** Restore Jay's approved face, pupil scale, shirt, and complete hair design; remove the non-canonical plants; and keep Hank's front symbol flat and pupil-free. In a relaxed state, use only the approved simple dot when needed and avoid competing eye-like hardware.
 
-## 08 — Expression and tone drift
+## 08 — Deleted scene: acting and context failure
 
 <p align="center">
   <img src="rejected/08-expression-and-tone-drift.png" width="900" alt="Rejected close-up of Jay crying exaggerated streams of stylized water">
 </p>
 
-**Rejected because:** The enormous spiraling tear streams dominate the composition and shift the acting into a broad anime gag. The effect overwhelms Jay's performance and breaks the dry comic tone established elsewhere.
+**Rejected because:** This scene was deleted. Jay's eyes are off-model, his face is drawn too softly, and the enormous spiraling tear streams do not match the described action. Contextually, Jay was meant to look serious while holding the water explicitly within his eyes and trying to "suck it up." Instead, the frame depicts uncontrolled crying, while Hank's expression reads as glee or happiness in response to Jay's distress. The image reverses both performances and misses the emotional relationship in the scene.
 
-**Design principle:** Expression intensity has to match the scene's dramatic scale and the show's visual vocabulary.
+**Design principle:** Expression intensity, eyeline, and character-to-character reaction must match the written subtext—not merely the broad category of emotion.
 
-**Correction:** Let brows, eyelids, mouth shape, timing, and vocal performance carry the emotion; use tears only if the script actually requires them.
+**Correction:** Keep the scene out of the current episode. If the beat is ever reconsidered, use Jay's approved eye and face construction, contain the water inside his eyes, give him a controlled serious expression, and direct Hank with concern rather than delight.
 
 ## 09 — Compounded model drift
 
@@ -153,17 +153,17 @@ The accepted direction uses a low, compact build; short, economical fur shapes; 
 
 **Correction:** Run a per-character checklist before accepting composition, lighting, or background polish.
 
-## 10 — Locomotion continuity failure
+## 10 — Staging, anatomy, and continuity failure
 
 <p align="center">
   <img src="rejected/10-locomotion-continuity-failure.png" width="900" alt="Rejected departure frame showing Hank and Jess walking on humanoid legs">
 </p>
 
-**Rejected because:** Hank and Jess suddenly walk away on arms and legs after being established as floating spheres. The change is especially damaging in a sequence because it alters scale, locomotion, silhouette, and personality at the same time.
+**Rejected because:** Hank and Jess suddenly walk on arms and legs with incorrect expressions after being established as floating spheres. Jay's pose is anatomically contradictory: his torso faces forward while the walk travels sideways, his legs appear inverted, and the feet mix forward- and backward-facing construction. His hair also contains a stray smudged ink shape. Shadow reads as annoyed rather than sleepy. The camera and location are wrong as well: the scene was written as a top-down view in a gap, not a ground-level park shot, and no nearby river, bench, or sidewalk was established.
 
-**Design principle:** Continuity is not limited to color and costume. A character's physical rules must remain stable from shot to shot.
+**Design principle:** Continuity includes anatomy, locomotion, expression, camera grammar, geography, and the emotional state of background characters. A polished environment cannot replace the scene that was actually written.
 
-**Correction:** Keep both bots airborne and stage the exit with hover paths, spacing, tilt, and antenna gesture.
+**Correction:** Rebuild the shot from the script: use the intended top-down camera in the gap, remove the invented park features, keep the cat visibly sleepy, preserve Jay's correct hair and walking anatomy, and keep both bots airborne with approved expressions.
 
 ## What the rejected work changed
 
