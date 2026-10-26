@@ -1,31 +1,59 @@
-# Earth To Jay — Voice Acting & Writing Portfolio
+<p align="center">
+  <img src="artwork/branding/earth-to-jay-logo.png" width="680" alt="Earth To Jay logo">
+</p>
 
-**Created and written by Joseph Edwards**
+<h3 align="center">An original animated adventure comedy</h3>
 
-An original animated adventure-comedy about Jay, a brilliant inventor with uneven judgment, who wants to meet Earth's animals and make the top nature show on ViewTube. His robot companions Hank and Jess help keep the expedition, the camera, and Jay's plans from going too far off course.
+<p align="center">
+  <strong>Created, written, and performed by Joseph Edwards</strong><br>
+  Voice acting · character performance · scriptwriting · show development
+</p>
 
-## What this portfolio shows
+---
 
-- Original series concept and character writing
-- Scripted performance as Jay and Hank, including distinct character voices
-- Character designs and AI-assisted visual development
+## The show
 
-## Performance sample
+Jay is a brilliant young inventor with uneven judgment and one enormous goal: meet Earth's animals and make the greatest nature show on ViewTube. His floating robot companions, Hank and Jess, handle the camera, the commentary, and as much damage control as the day requires.
 
-[Read the opening excerpt](script-sample/opening-excerpt.fountain) from the pilot. A finished reel will be linked here after the split-screen edit is ready.
+*Earth To Jay* combines character comedy, animal encounters, improvised energy, and a sincere curiosity about the natural world.
+
+## Portfolio focus
+
+| Discipline | Featured work |
+| --- | --- |
+| **Voice acting** | Character performance for Jay and Hank, with distinct rhythms, attitudes, and voices |
+| **Writing** | Original series concept, pilot script, character dialogue, comic timing, and scene construction |
+| **Character work** | Original characters, relationships, performance direction, and visual development |
+| **Show development** | Series premise, tone, episode structure, and reel planning |
+
+## Featured script sample
+
+**[Read the opening excerpt from the “Cats” pilot →](script-sample/opening-excerpt.fountain)**
+
+The excerpt introduces Jay and Hank through a fast misdirect: what sounds like a critical invention test is actually the final moment of a video game. It establishes their voices, comic timing, and relationship before Jay launches into the episode.
+
+The sample is provided in Fountain screenplay format, which is readable as plain text.
+
+## Performance reel
+
+The voice and acting reel is currently in production. It is being designed as a split-screen performance with Joseph on camera alongside illustrated story frames from the pilot.
+
+The finished reel will feature original writing and character performances created specifically for *Earth To Jay*.
 
 ## Visual development
 
-These AI-assisted concept frames were generated from Joseph Edwards's character-design references for portfolio storyboarding. They are illustrative development images, not production-ready character sheets.
+<p align="center">
+  <img src="artwork/story-frames/01-jay-workspace.png" width="900" alt="Jay working at a bank of monitors in his dark bedroom workspace">
+</p>
 
-![Jay at work](artwork/story-frames/01-jay-workspace.png)
+<p align="center"><em>Jay at work — an AI-assisted storyboard concept developed from Joseph Edwards's original character references.</em></p>
 
-![Jay meets a cautious cat](artwork/story-frames/02-cat-encounter.png)
+Visuals shown here are portfolio development material. They demonstrate staging, tone, lighting, and reel planning; they are not production-ready model sheets.
 
-![Jay presents to camera](artwork/story-frames/03-neighborhood.png)
+## Credits and rights
 
-## Rights
+*Earth To Jay* is an original series created and written by **Joseph Edwards**. The script, characters, series concept, and underlying creative material are © 2026 Joseph Edwards. All rights reserved.
 
-© 2026 Joseph Edwards. All rights reserved. This repository contains selected portfolio samples. No license is granted to reproduce, adapt, perform, distribute, or commercialize the scripts, characters, or artwork. Contact the creator for permission.
+This repository is a view-only portfolio presentation. No license is granted to reproduce, adapt, perform, distribute, train on, or commercialize its scripts, characters, artwork, or other materials. The complete pilot, series bible, private creator notes, source artwork, and production files are intentionally withheld.
 
-The full pilot, series bible, private creator notes, source artwork, and production files are intentionally not included. Do not add a software or Creative Commons license to this repository.
+For casting, collaboration, or portfolio inquiries, contact Joseph Edwards through the [RawPowered GitHub profile](https://github.com/RawPowered).
