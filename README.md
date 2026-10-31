@@ -47,7 +47,7 @@ The finished reel will feature original writing and character performances creat
   <img src="artwork/story-frames/01-jay-workspace.png" width="900" alt="Jay working at a bank of monitors in his dark bedroom workspace">
 </p>
 
-<p align="center"><em>Jay at work — an AI-assisted storyboard concept developed from Joseph Edwards's original character references.</em></p>
+<p align="center"><em>Jay at work; an AI-assisted storyboard concept developed from Joseph Edwards's original character references.</em></p>
 
 Visuals shown here are portfolio development material. They demonstrate staging, tone, lighting, and reel planning; they are not production-ready model sheets.
 
@@ -55,7 +55,7 @@ Visuals shown here are portfolio development material. They demonstrate staging,
 
 **[See 10 rejected AI-art examples with the design critique behind each decision →](design-critique/README.md)**
 
-The case study documents how generated images were evaluated against character models, story intent, silhouette, expression, and continuity. It includes rejected outputs—not as finished artwork, but as evidence of the review process that shaped the visual direction of *Earth To Jay*.
+The case study documents how generated images were evaluated against character models, story intent, silhouette, expression, and continuity. It includes rejected outputs as evidence of the review process that shaped the visual direction of *Earth To Jay*.
 
 Topics include Shadow's eye and body construction, invented robot limbs, pupil-like display marks, incompatible rendering styles, exaggerated acting, and scene generation that changed the written action.
 
